@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Stay Foolish,Stay Hungry.
